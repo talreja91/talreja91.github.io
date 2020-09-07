@@ -684,7 +684,7 @@ p.b_label {
   position: relative;
   -webkit-transition: all 0.35s;
   transition: all 0.35s;
-  margin-bottom: 7px;
+  margin-bottom: 0px;
 }
 
 .hovereffect:hover img {
@@ -702,7 +702,7 @@ p.b_label {
     font-size: 2.2em;
     background-color: transparent;
     color: #44c7f4;
-    padding: 2em 0 0.5em;
+    padding: 0.8em 0 0.5em;
     opacity: 0;
     filter: alpha(opacity=0);
     -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
